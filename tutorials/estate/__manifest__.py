@@ -9,4 +9,7 @@
     'description': """
     Module for managing real estate properties, including property name, the property type, the postcode and so on. 
     """,
+    'data': [
+        'security/ir.model.access.csv',
+    ]
 }
